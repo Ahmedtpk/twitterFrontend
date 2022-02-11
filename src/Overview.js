@@ -48,7 +48,6 @@ class App extends React.Component {
   handleFeed(){
     const { history } = this.props;
     history.push(`/user/${history}`);
-
   }
 
 

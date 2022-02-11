@@ -1,6 +1,6 @@
 // const Api_url = "http://localhost:3333/tweets"
 // const Api_url = "http://localhost:3333"
-const Api_url = process.env.REACT_APP_API_URL
+const Api_url = process.env.REACT_APP_API_URL;
 
 
 export function getTweets(){
